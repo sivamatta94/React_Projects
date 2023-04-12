@@ -1,12 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+1.To create a web app using React, I started by creating a new React project and added React Router DOM and Tailwind CSS to it.
+2.I then created a components folder and added a HomePage component with sections for categories A and B. 
+3.Next, I added a dynamic section for a slider to showcase featured products using the Splide npm package.
+
+
+After downloading the zip file . TO run this project
 
 In the project directory, you can run:
 
-### `npm start`
+First, run the command  `npm i`
+second command  `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
